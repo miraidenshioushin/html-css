@@ -1,0 +1,180 @@
+
+/*The same backgroud*/
+
+.article{
+  width: 100%;
+  margin: 0px;
+  height: 1080px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /*background-position: center center;*/
+  background-size: cover;
+
+
+  line-height: 100px;
+  /* */
+  padding: 10px 0 50px;
+}
+
+
+.section1{
+  background-image: url(https://images.assets-landingi.com/FfS3xPey/CG_website_banner_nologo.jpg);
+
+}
+.section2 {
+  color: #747474;
+  background-image: url(https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/b03533fa828ba61ee4f0a31e4634970a304e59e0.jpg);
+}
+
+.section3{
+
+  background-image: url(https://images.assets-landingi.com/oC3VsTmb/Chernobylite.jpg);
+}
+
+.section4{
+
+  background-image: url(https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/b03533fa828ba61ee4f0a31e4634970a304e59e0.jpg);
+}
+
+.section5{
+
+  background-image: url(https://images.assets-landingi.com/2uaoG1rA/Chernobylite_01_Workshop_1920.jpg)
+}
+
+.section6{
+
+  background-image: url(https://images.assets-landingi.com/blpMdV0B/Chernobylite_04_The_Girl_1920.jpg)
+}
+
+.section7{
+
+  background-image:url(https://images.assets-landingi.com/HY3nI0k0/Chernobylite_EA_Announcement_Screen_04.png);
+
+}
+.section8{
+
+  background-image: url(https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/b03533fa828ba61ee4f0a31e4634970a304e59e0.jpg);
+
+}
+.section9{
+
+  background-image: url(https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/b03533fa828ba61ee4f0a31e4634970a304e59e0.jpg);
+
+}
+.section10{
+  background-image: url(https://images.assets-landingi.com/Tqgk5P2a/IMG_20180726_181951_856_wide.jpg);
+  height: 600px;
+}
+.section11{
+  background-image: url(https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/b03533fa828ba61ee4f0a31e4634970a304e59e0.jpg);
+
+}
+.section12{
+  background-image: url("https://images.assets-landingi.com/Cd9ifccs/IMG_20181015_000532_533.jpg");
+}
+
+
+a{
+  text-decoration: none;
+  color: aliceblue;
+}
+#dg{
+list-style-type: none;
+  width: 100%;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 0px;
+  overflow: hidden;
+  background-color:black;
+  font-family: SansSerif;
+  position: fixed;
+  top:0px;
+
+}
+#dg li{
+  width: 160px;
+  height: 40px;
+  float: left;
+  border-right: #222222;
+  font-size: 15px;
+  color: aliceblue;
+  text-align:center;
+  font-family: SansSerif;
+  top:5px;
+}
+
+#dg li a{
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+#dg2{
+  color: rgba(3,176,107,.9);
+}
+
+.dg3{
+  text-align: center;
+}
+
+#dg4
+{
+   position: relative;right: 150px; top: 200px;
+}
+
+.Si{
+  width:500px;
+  height:400px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  /*为了效果明显，可以将如下边框打开，看一下效果*/
+  /* border:1px solid black; */
+}
+
+.Si img{
+  width:100%;
+  height:auto;
+}
+
+.center{
+  position: relative;
+  left: 120px;
+  top: 20px;
+}
+.center2{
+  position: relative;
+  left: 1220px;
+  top: 400px;
+}
+
+.gy {
+  position: relative;
+  top: 200px;
+  left: 350px;
+  float: left;
+}
+
+
+.gy1 img{
+  width: 320px;
+  height: 150px;
+}
+
+tr {
+  margin:0px;
+  padding:0px;
+  height:8px;
+  line-height:8px;
+  overflow:hidden;
+}
+table input{
+  width:400px; height:50px;
+}
+table{
+  width:500px; border:0px;
+}
+
+
+
